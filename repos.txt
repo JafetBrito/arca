@@ -1,0 +1,3 @@
+# Lista de repos a respaldar: uno por línea (dueño/repo o URL). Lo que va tras '#' se ignora.
+# Añade más con:  python -m arca buscar --tema TEMA --estrellas-min 100
+richardlehane/siegfried  # ejemplo: identificación de formatos para preservación digital

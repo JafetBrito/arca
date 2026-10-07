@@ -1,0 +1,8 @@
+datos/
+respaldos/
+build/
+*.spec
+__pycache__/
+*.pyc
+*.zip
+dist/
